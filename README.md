@@ -1,5 +1,12 @@
 # mangadex-dl
 
+
+---------------------------------------------------------------------------------
+DEPRECEATED BECAUSE MANGADEX HAS NO MORE ONE PIECE CHAPTERS
+---------------------------------------------------------------------------------
+
+
+
 A Python script to download manga from [MangaDex.org](https://mangadex.org).
 Keeps a log file to make sure you don't download the same chapter more than once.
 Arguments:
