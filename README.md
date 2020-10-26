@@ -35,7 +35,6 @@ For a list of language codes (optional argument; defaults to English), see [the 
 ```
 $ ./mangadex-dl.py
 mangadex-dl v0.2
-Enter manga URL: https://mangadex.org/title/311/yotsuba-to
 
 Title: One Piece
 Available chapters:
